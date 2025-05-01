@@ -1,0 +1,167 @@
+text,intent
+"tôi muốn xem lịch sử tìm kiếm",find_history
+"tôi muốn xem danh sách các tính năng",find_api
+"tôi muốn đăng xuất",log_out
+"giúp tôi chuyển hướng đến màn hình đăng nhập",log_in
+"Tôi muốn đăng xuất khỏi hệ thống",log_out
+"Giúp tôi đăng nhập vào hệ thống",log_in
+"Tôi muốn tìm các API có sẵn",find_api
+"Xin hãy chỉ tôi cách sử dụng API",find_api
+"Tôi muốn tìm kiếm lịch sử của tôi",find_history
+"Tôi muốn tìm đọc tin tức mới nhất",find_news
+"Tôi muốn cập nhật thông tin mới nhất về công nghệ",find_news
+"Tìm cho tôi những bài viết mới về thể thao",find_news
+"Tôi muốn đọc tin tức về tình hình kinh tế hiện tại",find_news
+"Xin hãy tìm cho tôi những tin tức nóng hổi hôm nay",find_news
+"Tôi cần cập nhật thông tin về chính trị trong nước",find_news
+"Chia sẻ với tôi những tin tức mới về môi trường",find_news
+"Tôi muốn biết tin tức mới về công nghệ",find_news
+"Tìm kiếm các bài viết về sự kiện thể thao hôm nay",find_news
+"Tôi cần biết tin tức về dịch bệnh hiện tại",find_news
+"Xin cho tôi biết các bài viết mới về sức khỏe",find_news
+"Tìm cho tôi những bài báo về thời sự quốc tế",find_news
+"Tôi muốn tìm các tin tức về các vấn đề xã hội",find_news
+"Chia sẻ với tôi những tin tức mới nhất về giải trí",find_news
+"Tôi muốn biết thông tin mới nhất về các cuộc thi thể thao",find_news
+"Xin cập nhật cho tôi tin tức về các vấn đề giáo dục",find_news
+"Tìm kiếm tin tức mới nhất về biến đổi khí hậu",find_news
+"Tôi muốn đọc tin tức về các sự kiện nổi bật trong tuần",find_news
+"Tìm giúp tôi các bài viết về chính sách của chính phủ",find_news
+"Tôi muốn biết tin tức mới về các công ty lớn trong ngành công nghệ",find_news
+"Chia sẻ với tôi thông tin về những vụ án nổi bật",find_news
+"Tìm kiếm các tin tức mới về tình hình an ninh trong nước",find_news
+"Tôi muốn đọc tin tức về các chính sách bảo vệ môi trường",find_news
+"Tôi muốn biết các tin tức mới về tình hình chính trị",find_news
+"Chia sẻ với tôi các tin tức về môi trường hôm nay",find_news
+"Tìm cho tôi tin tức về các vụ án nổi bật trong tuần",find_news
+"Tôi muốn đọc tin tức về xu hướng công nghệ mới",find_news
+"Xin hãy tìm cho tôi các bài viết về thị trường chứng khoán",find_news
+"Tôi muốn cập nhật tin tức mới nhất về cuộc chiến ở Ukraine",find_news
+"Chia sẻ tin tức về những phát minh công nghệ mới nhất",find_news
+"Tìm cho tôi các bài viết về sự kiện thể thao nổi bật",find_news
+"Tôi cần biết các tin tức về giáo dục và học bổng",find_news
+"Tìm giúp tôi các tin tức về các bệnh dịch đang diễn ra",find_news
+"Chia sẻ với tôi thông tin mới về các vấn đề xã hội",find_news
+"Tôi muốn tìm hiểu về tình hình an ninh quốc gia",find_news
+"Tìm cho tôi các bài viết mới về vấn đề thay đổi khí hậu",find_news
+"Xin tìm cho tôi tin tức về các thỏa thuận quốc tế",find_news
+"Tôi muốn đọc các bài báo mới nhất về thời tiết",find_news
+"Chia sẻ với tôi tin tức về các sự kiện văn hóa sắp tới",find_news
+"Tôi muốn biết thông tin về các nghiên cứu khoa học mới",find_news
+"Tìm giúp tôi các tin tức về đời sống và sức khỏe",find_news
+"Tôi muốn tìm các bài viết về lịch sử và di sản văn hóa",find_news
+"Tìm kiếm các bài báo về tình hình kinh tế toàn cầu",find_news
+"Chia sẻ với tôi các bài viết về các chiến dịch bảo vệ động vật",find_news
+"Tôi muốn đọc các bài viết về sự thay đổi trong giáo dục",find_news
+"Tìm cho tôi tin tức mới về công nghệ AI",find_news
+"Xin cập nhật tin tức về các sự kiện thể thao quốc tế",find_news
+"Tôi muốn tìm hiểu tin tức về các xu hướng thời trang mới",find_news
+"Chia sẻ với tôi các tin tức về các sự kiện âm nhạc sắp tới",find_news
+"Tôi muốn đọc tin tức về chính sách bảo vệ quyền lợi người lao động",find_news
+"Tìm kiếm các bài viết mới về chủ nghĩa bảo vệ môi trường",find_news
+"Tôi muốn biết các tin tức về sự phát triển của các công ty công nghệ",find_news
+"Chia sẻ với tôi các tin tức về các sản phẩm công nghệ mới",find_news
+"Tôi muốn đọc tin tức về các phát minh khoa học trong y học",find_news
+"Tìm cho tôi các bài viết mới về giáo dục đại học",find_news
+"Xin tìm kiếm thông tin về các chiến lược phát triển bền vững",find_news
+"Tôi muốn biết tin tức về các tổ chức từ thiện và thiện nguyện",find_news
+"Tìm giúp tôi các tin tức về các chuyến du lịch và khám phá",find_news
+"Chia sẻ với tôi các bài viết về sự phát triển của ngành năng lượng",find_news
+"Tôi muốn đọc tin tức về các nghiên cứu mới trong lĩnh vực vật lý",find_news
+"Tìm kiếm các bài báo về sự thay đổi trong thị trường lao động",find_news
+"Tôi muốn biết các tin tức về cuộc cách mạng số hóa trong công nghiệp",find_news
+"Chia sẻ với tôi thông tin về các chiến dịch quảng cáo lớn",find_news
+"Tìm giúp tôi tin tức về các chính sách nhập cư mới",find_news
+"Tôi muốn đọc các bài viết về sự phát triển của thị trường bất động sản",find_news
+"Chia sẻ tin tức về các sự kiện cộng đồng và xã hội",find_news
+"Tôi muốn tìm kiếm các bài viết về sự phát triển của ngành nông nghiệp",find_news
+"Tìm kiếm tin tức về sự phát triển của ngành sản xuất ô tô",find_news
+"Tôi muốn biết các tin tức về bảo vệ quyền lợi người tiêu dùng",find_news
+"Tìm giúp tôi các tin tức về các dự án lớn trong xây dựng",find_news
+"Chia sẻ với tôi các tin tức về các vấn đề môi trường toàn cầu",find_news
+"Tôi muốn đọc các bài viết về các cuộc thi sáng tạo khoa học",find_news
+"Tìm kiếm tin tức về các sáng kiến bảo vệ động vật hoang dã",find_news
+"Tôi muốn biết các tin tức về các sự kiện lớn trong lĩnh vực âm nhạc",find_news
+"Tìm cho tôi các bài viết về các sự kiện văn hóa địa phương",find_news
+"Tôi muốn đọc tin tức về các công nghệ tiên tiến trong y tế",find_news
+"Tìm kiếm thông tin về các cuộc đàm phán quốc tế quan trọng",find_news
+"Tôi muốn tìm các tin tức về sự phát triển của ngành giáo dục trực tuyến",find_news
+"Tôi muốn đăng nhập vào tài khoản của mình",log_in
+"Giúp tôi đăng nhập vào hệ thống",log_in
+"Tôi không thể đăng nhập, giúp tôi với",log_in
+"Xin hãy chuyển tôi đến màn hình đăng nhập",log_in
+"Tôi muốn vào trang đăng nhập",log_in
+"Đăng nhập cho tôi vào tài khoản",log_in
+"Tôi cần đăng nhập vào trang web",log_in
+"Tôi đã quên mật khẩu, giúp tôi đăng nhập lại",log_in
+"Chuyển hướng tôi đến trang đăng nhập",log_in
+"Đăng nhập tài khoản của tôi ngay",log_in
+"Tôi muốn vào hệ thống bằng tài khoản của mình",log_in
+"Tôi muốn đăng nhập để truy cập tài nguyên",log_in
+"Giúp tôi đăng nhập với tài khoản của tôi",log_in
+"Tôi muốn vào trang đăng nhập của ứng dụng",log_in
+"Tôi không thể đăng nhập vào tài khoản của mình",log_in
+"Chuyển tôi đến màn hình để đăng nhập",log_in
+"Tôi muốn thay đổi mật khẩu và đăng nhập lại",log_in
+"Tôi muốn đăng nhập vào tài khoản email",log_in
+"Đăng nhập vào hệ thống của tôi với mật khẩu mới",log_in
+"Tôi cần đăng nhập để tiếp tục",log_in
+"Tôi muốn đăng xuất khỏi tài khoản của mình",log_out
+"Giúp tôi đăng xuất khỏi hệ thống",log_out
+"Tôi muốn thoát tài khoản của mình",log_out
+"Xin hãy đăng xuất tôi khỏi tài khoản",log_out
+"Tôi không muốn ở trong hệ thống nữa, đăng xuất giúp tôi",log_out
+"Tôi muốn thoát khỏi trang web",log_out
+"Đăng xuất tài khoản của tôi ngay lập tức",log_out
+"Tôi cần đăng xuất khỏi tài khoản",log_out
+"Xin cho tôi thoát tài khoản",log_out
+"Tôi muốn thoát khỏi hệ thống ngay",log_out
+"Chuyển tôi đến trang đăng xuất",log_out
+"Tôi muốn kết thúc phiên làm việc và đăng xuất",log_out
+"Đăng xuất tôi ra khỏi ứng dụng",log_out
+"Tôi không cần sử dụng tài khoản nữa, đăng xuất",log_out
+"Xin hãy đăng xuất tôi khỏi hệ thống và quay lại trang chủ",log_out
+"Tôi muốn đăng xuất khỏi hệ thống và thoát",log_out
+"Tôi không muốn giữ tài khoản đăng nhập, đăng xuất ngay",log_out
+"Đăng xuất khỏi tài khoản của tôi",log_out
+"Tôi muốn thoát khỏi tài khoản hiện tại",log_out
+"Tôi muốn đăng xuất tất cả các tài khoản của tôi",log_out
+"Tôi muốn tìm API để kết nối với ứng dụng của mình",find_api
+"Xin hãy cung cấp cho tôi thông tin về các API sẵn có",find_api
+"Tôi cần tìm hiểu về API để tích hợp vào hệ thống",find_api
+"Chia sẻ với tôi các tài liệu về API",find_api
+"Tôi muốn biết danh sách các API công khai",find_api
+"Tìm giúp tôi các API liên quan đến dữ liệu người dùng",find_api
+"Tôi cần API để xử lý thanh toán trong ứng dụng",find_api
+"Xin cho tôi thông tin về API của dịch vụ email",find_api
+"Chia sẻ với tôi các API để quản lý người dùng trong hệ thống",find_api
+"Tôi muốn xem lịch sử trò chuyện với bot",find_history
+"Xin hãy hiển thị lịch sử tin nhắn của tôi",find_history
+"Tôi muốn xem lại những câu tôi đã gửi cho bot",find_history
+"Chia sẻ với tôi lịch sử trò chuyện với bot",find_history
+"Tôi cần xem lịch sử các cuộc trò chuyện trước đó",find_history
+"Tìm giúp tôi các tin nhắn trước đây tôi đã gửi",find_history
+"Tôi muốn kiểm tra lại các cuộc trò chuyện với bot",find_history
+"Hiển thị lịch sử các câu hỏi tôi đã hỏi bot",find_history
+"Tôi muốn xem lại những gì tôi đã yêu cầu bot",find_history
+"Chia sẻ với tôi các tin nhắn đã gửi cho bot",find_history
+"Tôi cần xem lại các tin nhắn tôi đã gửi cho bot trước đó",find_history
+"Hiển thị lịch sử giao tiếp của tôi với bot",find_history
+"Tôi muốn xem các câu trả lời trước đây từ bot",find_history
+"Tìm giúp tôi các cuộc trò chuyện cũ với bot",find_history
+"Tôi muốn tra cứu các câu hỏi trước đây tôi đã hỏi bot",find_history
+"Chia sẻ với tôi những tin nhắn đã gửi trong các cuộc trò chuyện với bot",find_history
+"Tôi muốn kiểm tra lại các phản hồi của bot từ các lần trò chuyện trước",find_history
+"Hiển thị lại lịch sử các yêu cầu tôi đã gửi cho bot",find_history
+"Tôi muốn xem các cuộc trò chuyện của tôi với bot trong quá khứ",find_history
+"Tìm giúp tôi tất cả tin nhắn tôi đã gửi đến bot",find_history
+"Tôi muốn xóa lịch sử trò chuyện với bot",clear_history
+"Xin hãy xóa tất cả tin nhắn của tôi với bot",clear_history
+"Tôi cần xóa toàn bộ lịch sử nhắn tin với bot",clear_history
+"Chia sẻ với tôi cách xóa lịch sử trò chuyện với bot",clear_history
+"Tôi muốn xóa các cuộc trò chuyện trước đây",clear_history
+"Xóa tất cả tin nhắn mà tôi đã gửi cho bot",clear_history
+"Tôi muốn làm sạch lịch sử trò chuyện với bot",clear_history
+"Xóa đi mọi tin nhắn trước đây của tôi với bot",clear_history
+"Tôi cần xóa lịch sử tin nhắn giữa tôi và bot",clear_history
+"Chỉ tôi xóa lịch sử nhắn tin của tôi với bot",clear_history
