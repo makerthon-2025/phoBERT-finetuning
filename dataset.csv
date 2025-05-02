@@ -8,84 +8,6 @@ text,intent
 "Tôi muốn tìm các API có sẵn",find_api
 "Xin hãy chỉ tôi cách sử dụng API",find_api
 "Tôi muốn tìm kiếm lịch sử của tôi",find_history
-"Tôi muốn tìm đọc tin tức mới nhất",find_news
-"Tôi muốn cập nhật thông tin mới nhất về công nghệ",find_news
-"Tìm cho tôi những bài viết mới về thể thao",find_news
-"Tôi muốn đọc tin tức về tình hình kinh tế hiện tại",find_news
-"Xin hãy tìm cho tôi những tin tức nóng hổi hôm nay",find_news
-"Tôi cần cập nhật thông tin về chính trị trong nước",find_news
-"Chia sẻ với tôi những tin tức mới về môi trường",find_news
-"Tôi muốn biết tin tức mới về công nghệ",find_news
-"Tìm kiếm các bài viết về sự kiện thể thao hôm nay",find_news
-"Tôi cần biết tin tức về dịch bệnh hiện tại",find_news
-"Xin cho tôi biết các bài viết mới về sức khỏe",find_news
-"Tìm cho tôi những bài báo về thời sự quốc tế",find_news
-"Tôi muốn tìm các tin tức về các vấn đề xã hội",find_news
-"Chia sẻ với tôi những tin tức mới nhất về giải trí",find_news
-"Tôi muốn biết thông tin mới nhất về các cuộc thi thể thao",find_news
-"Xin cập nhật cho tôi tin tức về các vấn đề giáo dục",find_news
-"Tìm kiếm tin tức mới nhất về biến đổi khí hậu",find_news
-"Tôi muốn đọc tin tức về các sự kiện nổi bật trong tuần",find_news
-"Tìm giúp tôi các bài viết về chính sách của chính phủ",find_news
-"Tôi muốn biết tin tức mới về các công ty lớn trong ngành công nghệ",find_news
-"Chia sẻ với tôi thông tin về những vụ án nổi bật",find_news
-"Tìm kiếm các tin tức mới về tình hình an ninh trong nước",find_news
-"Tôi muốn đọc tin tức về các chính sách bảo vệ môi trường",find_news
-"Tôi muốn biết các tin tức mới về tình hình chính trị",find_news
-"Chia sẻ với tôi các tin tức về môi trường hôm nay",find_news
-"Tìm cho tôi tin tức về các vụ án nổi bật trong tuần",find_news
-"Tôi muốn đọc tin tức về xu hướng công nghệ mới",find_news
-"Xin hãy tìm cho tôi các bài viết về thị trường chứng khoán",find_news
-"Tôi muốn cập nhật tin tức mới nhất về cuộc chiến ở Ukraine",find_news
-"Chia sẻ tin tức về những phát minh công nghệ mới nhất",find_news
-"Tìm cho tôi các bài viết về sự kiện thể thao nổi bật",find_news
-"Tôi cần biết các tin tức về giáo dục và học bổng",find_news
-"Tìm giúp tôi các tin tức về các bệnh dịch đang diễn ra",find_news
-"Chia sẻ với tôi thông tin mới về các vấn đề xã hội",find_news
-"Tôi muốn tìm hiểu về tình hình an ninh quốc gia",find_news
-"Tìm cho tôi các bài viết mới về vấn đề thay đổi khí hậu",find_news
-"Xin tìm cho tôi tin tức về các thỏa thuận quốc tế",find_news
-"Tôi muốn đọc các bài báo mới nhất về thời tiết",find_news
-"Chia sẻ với tôi tin tức về các sự kiện văn hóa sắp tới",find_news
-"Tôi muốn biết thông tin về các nghiên cứu khoa học mới",find_news
-"Tìm giúp tôi các tin tức về đời sống và sức khỏe",find_news
-"Tôi muốn tìm các bài viết về lịch sử và di sản văn hóa",find_news
-"Tìm kiếm các bài báo về tình hình kinh tế toàn cầu",find_news
-"Chia sẻ với tôi các bài viết về các chiến dịch bảo vệ động vật",find_news
-"Tôi muốn đọc các bài viết về sự thay đổi trong giáo dục",find_news
-"Tìm cho tôi tin tức mới về công nghệ AI",find_news
-"Xin cập nhật tin tức về các sự kiện thể thao quốc tế",find_news
-"Tôi muốn tìm hiểu tin tức về các xu hướng thời trang mới",find_news
-"Chia sẻ với tôi các tin tức về các sự kiện âm nhạc sắp tới",find_news
-"Tôi muốn đọc tin tức về chính sách bảo vệ quyền lợi người lao động",find_news
-"Tìm kiếm các bài viết mới về chủ nghĩa bảo vệ môi trường",find_news
-"Tôi muốn biết các tin tức về sự phát triển của các công ty công nghệ",find_news
-"Chia sẻ với tôi các tin tức về các sản phẩm công nghệ mới",find_news
-"Tôi muốn đọc tin tức về các phát minh khoa học trong y học",find_news
-"Tìm cho tôi các bài viết mới về giáo dục đại học",find_news
-"Xin tìm kiếm thông tin về các chiến lược phát triển bền vững",find_news
-"Tôi muốn biết tin tức về các tổ chức từ thiện và thiện nguyện",find_news
-"Tìm giúp tôi các tin tức về các chuyến du lịch và khám phá",find_news
-"Chia sẻ với tôi các bài viết về sự phát triển của ngành năng lượng",find_news
-"Tôi muốn đọc tin tức về các nghiên cứu mới trong lĩnh vực vật lý",find_news
-"Tìm kiếm các bài báo về sự thay đổi trong thị trường lao động",find_news
-"Tôi muốn biết các tin tức về cuộc cách mạng số hóa trong công nghiệp",find_news
-"Chia sẻ với tôi thông tin về các chiến dịch quảng cáo lớn",find_news
-"Tìm giúp tôi tin tức về các chính sách nhập cư mới",find_news
-"Tôi muốn đọc các bài viết về sự phát triển của thị trường bất động sản",find_news
-"Chia sẻ tin tức về các sự kiện cộng đồng và xã hội",find_news
-"Tôi muốn tìm kiếm các bài viết về sự phát triển của ngành nông nghiệp",find_news
-"Tìm kiếm tin tức về sự phát triển của ngành sản xuất ô tô",find_news
-"Tôi muốn biết các tin tức về bảo vệ quyền lợi người tiêu dùng",find_news
-"Tìm giúp tôi các tin tức về các dự án lớn trong xây dựng",find_news
-"Chia sẻ với tôi các tin tức về các vấn đề môi trường toàn cầu",find_news
-"Tôi muốn đọc các bài viết về các cuộc thi sáng tạo khoa học",find_news
-"Tìm kiếm tin tức về các sáng kiến bảo vệ động vật hoang dã",find_news
-"Tôi muốn biết các tin tức về các sự kiện lớn trong lĩnh vực âm nhạc",find_news
-"Tìm cho tôi các bài viết về các sự kiện văn hóa địa phương",find_news
-"Tôi muốn đọc tin tức về các công nghệ tiên tiến trong y tế",find_news
-"Tìm kiếm thông tin về các cuộc đàm phán quốc tế quan trọng",find_news
-"Tôi muốn tìm các tin tức về sự phát triển của ngành giáo dục trực tuyến",find_news
 "Tôi muốn đăng nhập vào tài khoản của mình",log_in
 "Giúp tôi đăng nhập vào hệ thống",log_in
 "Tôi không thể đăng nhập, giúp tôi với",log_in
@@ -155,6 +77,8 @@ text,intent
 "Hiển thị lại lịch sử các yêu cầu tôi đã gửi cho bot",find_history
 "Tôi muốn xem các cuộc trò chuyện của tôi với bot trong quá khứ",find_history
 "Tìm giúp tôi tất cả tin nhắn tôi đã gửi đến bot",find_history
+"xóa tất cả lịch sử",clear_history
+"xóa lịch sử",clear_history
 "Tôi muốn xóa lịch sử trò chuyện với bot",clear_history
 "Xin hãy xóa tất cả tin nhắn của tôi với bot",clear_history
 "Tôi cần xóa toàn bộ lịch sử nhắn tin với bot",clear_history
@@ -165,161 +89,27 @@ text,intent
 "Xóa đi mọi tin nhắn trước đây của tôi với bot",clear_history
 "Tôi cần xóa lịch sử tin nhắn giữa tôi và bot",clear_history
 "Chỉ tôi xóa lịch sử nhắn tin của tôi với bot",clear_history
+"Xóa lịch sử trò chuyện của tôi",clear_history
+"Xóa lịch sử chat bot",clear_history
+"Xóa toàn bộ lịch sử",clear_history
+"Xóa dữ liệu lịch sử của tôi",clear_history
+"Xóa tất cả lịch sử trò chuyện",clear_history
+"Xóa lịch sử trò chuyện của tôi",clear_history
+"Tôi muốn xóa lịch sử chat",clear_history
+"Xóa toàn bộ lịch sử trò chuyện",clear_history
+"Xóa lịch sử trò chuyện của bot",clear_history
+"Xóa tất cả cuộc trò chuyện trước đây",clear_history
+"Xóa dữ liệu trò chuyện của tôi",clear_history
+"Tôi muốn xóa tất cả dữ liệu",clear_history
+"Xóa tất cả dữ liệu lịch sử",clear_history
+"Xóa các thông tin đã lưu",clear_history
+"Xóa mọi dữ liệu đã được lưu trữ",clear_history
+"Xóa toàn bộ lịch sử trò chuyện",clear_history
+"Xóa toàn bộ lịch sử chat bot",clear_history
+"Tôi muốn xóa toàn bộ lịch sử của tôi",clear_history
+"Xóa tất cả lịch sử cuộc trò chuyện",clear_history
+"Xóa toàn bộ các cuộc trò chuyện đã qua",clear_history
 "đăng nhập",log_in
-"Tôi muốn đọc báo về sự phát triển của thị trường bất động sản",find_news
-"Đọc báo hôm nay về tình hình tài chính thế giới",find_news
-"Xin hãy cho tôi đọc báo về những tiến triển trong công nghệ AI",find_news
-"Tôi muốn đọc báo về các vấn đề môi trường",find_news
-"Đọc báo về sự thay đổi trong thị trường chứng khoán",find_news
-"Cho tôi đọc báo về xu hướng tiêu dùng hiện nay",find_news
-"Tôi muốn đọc báo về tình hình dịch bệnh COVID-19",find_news
-"Đọc báo về những phát triển trong ngành ô tô",find_news
-"Tôi muốn đọc báo về các vấn đề giáo dục",find_news
-"Đọc báo hôm nay về sự tiến bộ trong khoa học y tế",find_news
-"Tôi muốn đọc báo về ngành công nghiệp thực phẩm",find_news
-"Đọc báo về các chính sách chính phủ mới",find_news
-"Cho tôi đọc báo về tình hình an ninh mạng",find_news
-"Tôi muốn đọc báo về các cuộc thi thể thao quốc tế",find_news
-"Đọc báo về sự phát triển trong ngành công nghiệp điện tử",find_news
-"Tôi muốn đọc báo về cuộc sống thành phố",find_news
-"Đọc báo về những thay đổi trong ngành ngân hàng",find_news
-"Tôi muốn đọc báo về tình hình giao thông ở thành phố",find_news
-"Cho tôi đọc báo về cuộc chiến chống ô nhiễm không khí",find_news
-"Tôi muốn đọc báo về các giải pháp năng lượng tái tạo",find_news
-"Đọc báo về những phát triển trong ngành công nghệ thông tin",find_news
-"Tôi muốn đọc báo về các cuộc cách mạng công nghiệp 4.0",find_news
-"Đọc báo hôm nay về sự thay đổi trong chính sách thuế",find_news
-"Tôi muốn đọc báo về các vấn đề văn hóa xã hội",find_news
-"Đọc báo về tình hình du lịch quốc tế",find_news
-"Tôi muốn đọc báo về sự phát triển của các startup",find_news
-"Đọc báo về những câu chuyện thành công trong kinh doanh",find_news
-"Tôi muốn đọc báo về những phát triển trong ngành dầu khí",find_news
-"Đọc báo về những xu hướng mới trong marketing",find_news
-"Tôi muốn đọc báo về sự phát triển của thị trường tiền điện tử",find_news
-"Đọc báo về các vấn đề liên quan đến tài chính cá nhân",find_news
-"Tôi muốn đọc báo về tình hình chính trị quốc tế",find_news
-"Đọc báo hôm nay về sự tiến bộ trong ngành giáo dục trực tuyến",find_news
-"Tôi muốn đọc báo về sự phát triển của các công ty công nghệ",find_news
-"Đọc báo về các vấn đề pháp lý và quyền lợi người tiêu dùng",find_news
-"Tôi muốn đọc báo về xu hướng mới trong thiết kế nội thất",find_news
-"Đọc báo về những phát triển trong ngành xây dựng",find_news
-"Tôi muốn đọc báo về tình hình môi trường ở các khu đô thị",find_news
-"Đọc báo về tình hình cuộc sống của người lao động",find_news
-"Tôi muốn đọc báo về các vấn đề liên quan đến quyền con người",find_news
-"Đọc báo về các sáng kiến phát triển bền vững",find_news
-"Tôi muốn đọc báo về tình hình nghiên cứu và phát triển trong ngành dược",find_news
-"Đọc báo về xu hướng mới trong ngành quảng cáo",find_news
-"Tôi muốn đọc báo về tình hình y tế và chăm sóc sức khỏe",find_news
-"Đọc báo về các sáng kiến bảo vệ động vật hoang dã",find_news
-"Tôi muốn đọc báo về sự phát triển trong lĩnh vực nông nghiệp",find_news
-"Đọc báo về các giải pháp giáo dục cho trẻ em nghèo",find_news
-"Tôi muốn đọc báo về sự phát triển của ngành công nghiệp giải trí",find_news
-"Đọc báo về các cuộc cách mạng trong lĩnh vực năng lượng",find_news
-"Tôi muốn đọc báo về xu hướng đổi mới sáng tạo trong giáo dục",find_news
-"Đọc báo về sự phát triển của ngành công nghiệp vũ trụ",find_news
-"Tôi muốn đọc báo về các dự án phát triển hạ tầng giao thông",find_news
-"Đọc báo về các vấn đề và giải pháp trong ngành bảo hiểm",find_news
-"Tôi muốn đọc báo về xu hướng mới trong ngành tài chính ngân hàng",find_news
-"Đọc tin tức về sự phát triển của thị trường bất động sản",find_news
-"Đọc tin tức hôm nay về tình hình dịch bệnh",find_news
-"Đọc tin tức mới nhất về ngành công nghệ",find_news
-"Đọc tin tức về những thay đổi trong chính sách thuế",find_news
-"Đọc tin tức về thị trường chứng khoán hiện nay",find_news
-"Đọc tin tức về các sự kiện thể thao quốc tế",find_news
-"Đọc tin tức về các sáng kiến bảo vệ môi trường",find_news
-"Đọc tin tức về tình hình kinh tế toàn cầu",find_news
-"Đọc tin tức về các xu hướng tiêu dùng mới",find_news
-"Đọc tin tức về sự phát triển của ngành y tế",find_news
-"Xem tin tức về sự phát triển của thị trường bất động sản",find_news
-"Xem tin tức về tình hình dịch bệnh COVID-19",find_news
-"Xem tin tức về xu hướng công nghệ hiện nay",find_news
-"Xem tin tức về tình hình chính trị quốc tế",find_news
-"Xem tin tức về các chính sách mới của chính phủ",find_news
-"Xem tin tức về cuộc chiến chống ô nhiễm",find_news
-"Xem tin tức về tình hình tài chính thế giới",find_news
-"Xem tin tức về các giải pháp bảo vệ động vật",find_news
-"Xem tin tức về sự phát triển của các công ty khởi nghiệp",find_news
-"Xem tin tức về các vấn đề giáo dục toàn cầu",find_news
-"Tìm kiếm tin tức về sự phát triển của thị trường bất động sản",find_news
-"Tìm kiếm tin tức về sự thay đổi trong ngành công nghệ",find_news
-"Tìm kiếm tin tức về tình hình dịch bệnh",find_news
-"Tìm kiếm tin tức về các vấn đề môi trường",find_news
-"Tìm kiếm tin tức về sự phát triển của ngành giáo dục",find_news
-"Tìm kiếm tin tức về các cuộc cách mạng công nghiệp",find_news
-"Tìm kiếm tin tức về các vấn đề trong ngành y tế",find_news
-"Tìm kiếm tin tức về các xu hướng tài chính hiện nay",find_news
-"Tìm kiếm tin tức về tình hình kinh tế toàn cầu",find_news
-"Tìm kiếm tin tức về sự tiến bộ trong ngành xây dựng",find_news
-"Theo dõi tin tức về thị trường bất động sản",find_news
-"Theo dõi tin tức về sự thay đổi trong chính sách giáo dục",find_news
-"Theo dõi tin tức về các vấn đề chính trị",find_news
-"Theo dõi tin tức về tình hình tài chính thế giới",find_news
-"Theo dõi tin tức về sự phát triển của công nghệ",find_news
-"Theo dõi tin tức về các xu hướng tiêu dùng mới",find_news
-"Theo dõi tin tức về tình hình dịch bệnh",find_news
-"Theo dõi tin tức về các chính sách bảo vệ môi trường",find_news
-"Theo dõi tin tức về cuộc sống và sự nghiệp của các ngôi sao",find_news
-"Theo dõi tin tức về sự phát triển của ngành nông nghiệp",find_news
-"Kiểm tra tin tức về sự phát triển của thị trường bất động sản",find_news
-"Kiểm tra tin tức về tình hình dịch bệnh COVID-19",find_news
-"Kiểm tra tin tức về ngành công nghiệp ô tô",find_news
-"Kiểm tra tin tức về xu hướng tiêu dùng hiện nay",find_news
-"Kiểm tra tin tức về các cuộc thi thể thao quốc tế",find_news
-"Kiểm tra tin tức về sự phát triển trong ngành công nghệ",find_news
-"Kiểm tra tin tức về chính sách của chính phủ",find_news
-"Kiểm tra tin tức về tình hình giáo dục",find_news
-"Kiểm tra tin tức về sự phát triển trong ngành y tế",find_news
-"Kiểm tra tin tức về các sáng kiến phát triển bền vững",find_news
-"Cập nhật tin tức về sự phát triển của thị trường bất động sản",find_news
-"Cập nhật tin tức về tình hình dịch bệnh COVID-19",find_news
-"Cập nhật tin tức về các vấn đề môi trường",find_news
-"Cập nhật tin tức về tình hình chính trị quốc tế",find_news
-"Cập nhật tin tức về các xu hướng tiêu dùng",find_news
-"Cập nhật tin tức về các sự kiện thể thao quốc tế",find_news
-"Cập nhật tin tức về sự phát triển trong ngành giáo dục",find_news
-"Cập nhật tin tức về ngành công nghiệp ô tô",find_news
-"Cập nhật tin tức về sự phát triển của các công ty khởi nghiệp",find_news
-"Cập nhật tin tức về ngành công nghệ thông tin",find_news
-"Xem bài viết về sự phát triển của thị trường bất động sản",find_news
-"Xem bài viết về tình hình dịch bệnh COVID-19",find_news
-"Xem bài viết về các vấn đề giáo dục",find_news
-"Xem bài viết về sự phát triển trong ngành công nghệ",find_news
-"Xem bài viết về xu hướng tiêu dùng",find_news
-"Xem bài viết về các vấn đề môi trường",find_news
-"Xem bài viết về tình hình tài chính thế giới",find_news
-"Xem bài viết về các sáng kiến bảo vệ động vật",find_news
-"Xem bài viết về sự phát triển của các công ty khởi nghiệp",find_news
-"Xem bài viết về sự thay đổi trong ngành ngân hàng",find_news
-"Đọc bài viết về sự phát triển của thị trường bất động sản",find_news
-"Đọc bài viết về tình hình dịch bệnh COVID-19",find_news
-"Đọc bài viết về xu hướng tiêu dùng hiện nay",find_news
-"Đọc bài viết về các vấn đề môi trường",find_news
-"Đọc bài viết về sự phát triển của ngành giáo dục",find_news
-"Đọc bài viết về các sáng kiến bảo vệ động vật",find_news
-"Đọc bài viết về sự thay đổi trong ngành ô tô",find_news
-"Đọc bài viết về tình hình tài chính thế giới",find_news
-"Đọc bài viết về sự phát triển trong ngành y tế",find_news
-"Đọc bài viết về sự phát triển của các công ty khởi nghiệp",find_news
-"Tìm bài viết về sự phát triển của thị trường bất động sản",find_news
-"Tìm bài viết về tình hình dịch bệnh COVID-19",find_news
-"Tìm bài viết về các vấn đề giáo dục",find_news
-"Tìm bài viết về sự thay đổi trong ngành công nghiệp ô tô",find_news
-"Tìm bài viết về các xu hướng tiêu dùng",find_news
-"Tìm bài viết về sự phát triển trong ngành giáo dục",find_news
-"Tìm bài viết về ngành công nghiệp thực phẩm",find_news
-"Tìm bài viết về các sáng kiến bảo vệ động vật",find_news
-"Tìm bài viết về sự phát triển của ngành y tế",find_news
-"Tìm bài viết về sự phát triển trong ngành tài chính",find_news
-"Cập nhật thông tin về sự phát triển của thị trường bất động sản",find_news
-"Cập nhật thông tin về tình hình dịch bệnh COVID-19",find_news
-"Cập nhật thông tin về các sáng kiến bảo vệ động vật",find_news
-"Cập nhật thông tin về sự phát triển của ngành giáo dục",find_news
-"Cập nhật thông tin về ngành công nghiệp ô tô",find_news
-"Cập nhật thông tin về xu hướng tiêu dùng",find_news
-"Cập nhật thông tin về sự phát triển của các công ty khởi nghiệp",find_news
-"Cập nhật thông tin về tình hình tài chính",find_news
-"Cập nhật thông tin về sự phát triển trong ngành y tế",find_news
-"Cập nhật thông tin về các cuộc thi thể thao quốc tế",find_news
 "Tìm kiếm lịch sử chat bot",find_history
 "Tìm kiếm lịch sử trò chuyện của tôi với bot",find_history
 "Tìm kiếm các cuộc trò chuyện trước đây",find_history
