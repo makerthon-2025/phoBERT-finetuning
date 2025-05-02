@@ -5,3 +5,5 @@ env
 model
 tokenizer
 run.py
+
+results

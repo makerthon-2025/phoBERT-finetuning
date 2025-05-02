@@ -165,3 +165,358 @@ text,intent
 "Xóa đi mọi tin nhắn trước đây của tôi với bot",clear_history
 "Tôi cần xóa lịch sử tin nhắn giữa tôi và bot",clear_history
 "Chỉ tôi xóa lịch sử nhắn tin của tôi với bot",clear_history
+"đăng nhập",log_in
+"Tôi muốn đọc báo về sự phát triển của thị trường bất động sản",find_news
+"Đọc báo hôm nay về tình hình tài chính thế giới",find_news
+"Xin hãy cho tôi đọc báo về những tiến triển trong công nghệ AI",find_news
+"Tôi muốn đọc báo về các vấn đề môi trường",find_news
+"Đọc báo về sự thay đổi trong thị trường chứng khoán",find_news
+"Cho tôi đọc báo về xu hướng tiêu dùng hiện nay",find_news
+"Tôi muốn đọc báo về tình hình dịch bệnh COVID-19",find_news
+"Đọc báo về những phát triển trong ngành ô tô",find_news
+"Tôi muốn đọc báo về các vấn đề giáo dục",find_news
+"Đọc báo hôm nay về sự tiến bộ trong khoa học y tế",find_news
+"Tôi muốn đọc báo về ngành công nghiệp thực phẩm",find_news
+"Đọc báo về các chính sách chính phủ mới",find_news
+"Cho tôi đọc báo về tình hình an ninh mạng",find_news
+"Tôi muốn đọc báo về các cuộc thi thể thao quốc tế",find_news
+"Đọc báo về sự phát triển trong ngành công nghiệp điện tử",find_news
+"Tôi muốn đọc báo về cuộc sống thành phố",find_news
+"Đọc báo về những thay đổi trong ngành ngân hàng",find_news
+"Tôi muốn đọc báo về tình hình giao thông ở thành phố",find_news
+"Cho tôi đọc báo về cuộc chiến chống ô nhiễm không khí",find_news
+"Tôi muốn đọc báo về các giải pháp năng lượng tái tạo",find_news
+"Đọc báo về những phát triển trong ngành công nghệ thông tin",find_news
+"Tôi muốn đọc báo về các cuộc cách mạng công nghiệp 4.0",find_news
+"Đọc báo hôm nay về sự thay đổi trong chính sách thuế",find_news
+"Tôi muốn đọc báo về các vấn đề văn hóa xã hội",find_news
+"Đọc báo về tình hình du lịch quốc tế",find_news
+"Tôi muốn đọc báo về sự phát triển của các startup",find_news
+"Đọc báo về những câu chuyện thành công trong kinh doanh",find_news
+"Tôi muốn đọc báo về những phát triển trong ngành dầu khí",find_news
+"Đọc báo về những xu hướng mới trong marketing",find_news
+"Tôi muốn đọc báo về sự phát triển của thị trường tiền điện tử",find_news
+"Đọc báo về các vấn đề liên quan đến tài chính cá nhân",find_news
+"Tôi muốn đọc báo về tình hình chính trị quốc tế",find_news
+"Đọc báo hôm nay về sự tiến bộ trong ngành giáo dục trực tuyến",find_news
+"Tôi muốn đọc báo về sự phát triển của các công ty công nghệ",find_news
+"Đọc báo về các vấn đề pháp lý và quyền lợi người tiêu dùng",find_news
+"Tôi muốn đọc báo về xu hướng mới trong thiết kế nội thất",find_news
+"Đọc báo về những phát triển trong ngành xây dựng",find_news
+"Tôi muốn đọc báo về tình hình môi trường ở các khu đô thị",find_news
+"Đọc báo về tình hình cuộc sống của người lao động",find_news
+"Tôi muốn đọc báo về các vấn đề liên quan đến quyền con người",find_news
+"Đọc báo về các sáng kiến phát triển bền vững",find_news
+"Tôi muốn đọc báo về tình hình nghiên cứu và phát triển trong ngành dược",find_news
+"Đọc báo về xu hướng mới trong ngành quảng cáo",find_news
+"Tôi muốn đọc báo về tình hình y tế và chăm sóc sức khỏe",find_news
+"Đọc báo về các sáng kiến bảo vệ động vật hoang dã",find_news
+"Tôi muốn đọc báo về sự phát triển trong lĩnh vực nông nghiệp",find_news
+"Đọc báo về các giải pháp giáo dục cho trẻ em nghèo",find_news
+"Tôi muốn đọc báo về sự phát triển của ngành công nghiệp giải trí",find_news
+"Đọc báo về các cuộc cách mạng trong lĩnh vực năng lượng",find_news
+"Tôi muốn đọc báo về xu hướng đổi mới sáng tạo trong giáo dục",find_news
+"Đọc báo về sự phát triển của ngành công nghiệp vũ trụ",find_news
+"Tôi muốn đọc báo về các dự án phát triển hạ tầng giao thông",find_news
+"Đọc báo về các vấn đề và giải pháp trong ngành bảo hiểm",find_news
+"Tôi muốn đọc báo về xu hướng mới trong ngành tài chính ngân hàng",find_news
+"Đọc tin tức về sự phát triển của thị trường bất động sản",find_news
+"Đọc tin tức hôm nay về tình hình dịch bệnh",find_news
+"Đọc tin tức mới nhất về ngành công nghệ",find_news
+"Đọc tin tức về những thay đổi trong chính sách thuế",find_news
+"Đọc tin tức về thị trường chứng khoán hiện nay",find_news
+"Đọc tin tức về các sự kiện thể thao quốc tế",find_news
+"Đọc tin tức về các sáng kiến bảo vệ môi trường",find_news
+"Đọc tin tức về tình hình kinh tế toàn cầu",find_news
+"Đọc tin tức về các xu hướng tiêu dùng mới",find_news
+"Đọc tin tức về sự phát triển của ngành y tế",find_news
+"Xem tin tức về sự phát triển của thị trường bất động sản",find_news
+"Xem tin tức về tình hình dịch bệnh COVID-19",find_news
+"Xem tin tức về xu hướng công nghệ hiện nay",find_news
+"Xem tin tức về tình hình chính trị quốc tế",find_news
+"Xem tin tức về các chính sách mới của chính phủ",find_news
+"Xem tin tức về cuộc chiến chống ô nhiễm",find_news
+"Xem tin tức về tình hình tài chính thế giới",find_news
+"Xem tin tức về các giải pháp bảo vệ động vật",find_news
+"Xem tin tức về sự phát triển của các công ty khởi nghiệp",find_news
+"Xem tin tức về các vấn đề giáo dục toàn cầu",find_news
+"Tìm kiếm tin tức về sự phát triển của thị trường bất động sản",find_news
+"Tìm kiếm tin tức về sự thay đổi trong ngành công nghệ",find_news
+"Tìm kiếm tin tức về tình hình dịch bệnh",find_news
+"Tìm kiếm tin tức về các vấn đề môi trường",find_news
+"Tìm kiếm tin tức về sự phát triển của ngành giáo dục",find_news
+"Tìm kiếm tin tức về các cuộc cách mạng công nghiệp",find_news
+"Tìm kiếm tin tức về các vấn đề trong ngành y tế",find_news
+"Tìm kiếm tin tức về các xu hướng tài chính hiện nay",find_news
+"Tìm kiếm tin tức về tình hình kinh tế toàn cầu",find_news
+"Tìm kiếm tin tức về sự tiến bộ trong ngành xây dựng",find_news
+"Theo dõi tin tức về thị trường bất động sản",find_news
+"Theo dõi tin tức về sự thay đổi trong chính sách giáo dục",find_news
+"Theo dõi tin tức về các vấn đề chính trị",find_news
+"Theo dõi tin tức về tình hình tài chính thế giới",find_news
+"Theo dõi tin tức về sự phát triển của công nghệ",find_news
+"Theo dõi tin tức về các xu hướng tiêu dùng mới",find_news
+"Theo dõi tin tức về tình hình dịch bệnh",find_news
+"Theo dõi tin tức về các chính sách bảo vệ môi trường",find_news
+"Theo dõi tin tức về cuộc sống và sự nghiệp của các ngôi sao",find_news
+"Theo dõi tin tức về sự phát triển của ngành nông nghiệp",find_news
+"Kiểm tra tin tức về sự phát triển của thị trường bất động sản",find_news
+"Kiểm tra tin tức về tình hình dịch bệnh COVID-19",find_news
+"Kiểm tra tin tức về ngành công nghiệp ô tô",find_news
+"Kiểm tra tin tức về xu hướng tiêu dùng hiện nay",find_news
+"Kiểm tra tin tức về các cuộc thi thể thao quốc tế",find_news
+"Kiểm tra tin tức về sự phát triển trong ngành công nghệ",find_news
+"Kiểm tra tin tức về chính sách của chính phủ",find_news
+"Kiểm tra tin tức về tình hình giáo dục",find_news
+"Kiểm tra tin tức về sự phát triển trong ngành y tế",find_news
+"Kiểm tra tin tức về các sáng kiến phát triển bền vững",find_news
+"Cập nhật tin tức về sự phát triển của thị trường bất động sản",find_news
+"Cập nhật tin tức về tình hình dịch bệnh COVID-19",find_news
+"Cập nhật tin tức về các vấn đề môi trường",find_news
+"Cập nhật tin tức về tình hình chính trị quốc tế",find_news
+"Cập nhật tin tức về các xu hướng tiêu dùng",find_news
+"Cập nhật tin tức về các sự kiện thể thao quốc tế",find_news
+"Cập nhật tin tức về sự phát triển trong ngành giáo dục",find_news
+"Cập nhật tin tức về ngành công nghiệp ô tô",find_news
+"Cập nhật tin tức về sự phát triển của các công ty khởi nghiệp",find_news
+"Cập nhật tin tức về ngành công nghệ thông tin",find_news
+"Xem bài viết về sự phát triển của thị trường bất động sản",find_news
+"Xem bài viết về tình hình dịch bệnh COVID-19",find_news
+"Xem bài viết về các vấn đề giáo dục",find_news
+"Xem bài viết về sự phát triển trong ngành công nghệ",find_news
+"Xem bài viết về xu hướng tiêu dùng",find_news
+"Xem bài viết về các vấn đề môi trường",find_news
+"Xem bài viết về tình hình tài chính thế giới",find_news
+"Xem bài viết về các sáng kiến bảo vệ động vật",find_news
+"Xem bài viết về sự phát triển của các công ty khởi nghiệp",find_news
+"Xem bài viết về sự thay đổi trong ngành ngân hàng",find_news
+"Đọc bài viết về sự phát triển của thị trường bất động sản",find_news
+"Đọc bài viết về tình hình dịch bệnh COVID-19",find_news
+"Đọc bài viết về xu hướng tiêu dùng hiện nay",find_news
+"Đọc bài viết về các vấn đề môi trường",find_news
+"Đọc bài viết về sự phát triển của ngành giáo dục",find_news
+"Đọc bài viết về các sáng kiến bảo vệ động vật",find_news
+"Đọc bài viết về sự thay đổi trong ngành ô tô",find_news
+"Đọc bài viết về tình hình tài chính thế giới",find_news
+"Đọc bài viết về sự phát triển trong ngành y tế",find_news
+"Đọc bài viết về sự phát triển của các công ty khởi nghiệp",find_news
+"Tìm bài viết về sự phát triển của thị trường bất động sản",find_news
+"Tìm bài viết về tình hình dịch bệnh COVID-19",find_news
+"Tìm bài viết về các vấn đề giáo dục",find_news
+"Tìm bài viết về sự thay đổi trong ngành công nghiệp ô tô",find_news
+"Tìm bài viết về các xu hướng tiêu dùng",find_news
+"Tìm bài viết về sự phát triển trong ngành giáo dục",find_news
+"Tìm bài viết về ngành công nghiệp thực phẩm",find_news
+"Tìm bài viết về các sáng kiến bảo vệ động vật",find_news
+"Tìm bài viết về sự phát triển của ngành y tế",find_news
+"Tìm bài viết về sự phát triển trong ngành tài chính",find_news
+"Cập nhật thông tin về sự phát triển của thị trường bất động sản",find_news
+"Cập nhật thông tin về tình hình dịch bệnh COVID-19",find_news
+"Cập nhật thông tin về các sáng kiến bảo vệ động vật",find_news
+"Cập nhật thông tin về sự phát triển của ngành giáo dục",find_news
+"Cập nhật thông tin về ngành công nghiệp ô tô",find_news
+"Cập nhật thông tin về xu hướng tiêu dùng",find_news
+"Cập nhật thông tin về sự phát triển của các công ty khởi nghiệp",find_news
+"Cập nhật thông tin về tình hình tài chính",find_news
+"Cập nhật thông tin về sự phát triển trong ngành y tế",find_news
+"Cập nhật thông tin về các cuộc thi thể thao quốc tế",find_news
+"Tìm kiếm lịch sử chat bot",find_history
+"Tìm kiếm lịch sử trò chuyện của tôi với bot",find_history
+"Tìm kiếm các cuộc trò chuyện trước đây",find_history
+"Tìm kiếm lịch sử cuộc trò chuyện với chatbot",find_history
+"Tìm kiếm các tin nhắn đã gửi",find_history
+"Tìm lịch sử chat bot của tôi",find_history
+"Tìm kiếm lại các cuộc trò chuyện cũ",find_history
+"Tìm kiếm cuộc trò chuyện trước đây với bot",find_history
+"Tìm lịch sử chat trong cuộc trò chuyện",find_history
+"Tìm kiếm tin nhắn đã gửi từ trước",find_history
+"Xem lịch sử trò chuyện của tôi với bot",find_history
+"Xem lại cuộc trò chuyện trước đây",find_history
+"Xem lịch sử chat bot",find_history
+"Xem các cuộc trò chuyện cũ với bot",find_history
+"Xem lịch sử các tin nhắn đã gửi",find_history
+"Xem lại lịch sử cuộc trò chuyện với chatbot",find_history
+"Xem lịch sử trò chuyện từ trước",find_history
+"Xem cuộc trò chuyện trước đây với bot",find_history
+"Xem lại lịch sử trò chuyện của tôi",find_history
+"Xem các tin nhắn đã gửi trước đây",find_history
+"Kiểm tra lịch sử chat bot của tôi",find_history
+"Kiểm tra lại lịch sử cuộc trò chuyện",find_history
+"Kiểm tra các cuộc trò chuyện cũ",find_history
+"Kiểm tra lịch sử trò chuyện với bot",find_history
+"Kiểm tra lại tin nhắn đã gửi",find_history
+"Kiểm tra lịch sử trò chuyện của tôi với bot",find_history
+"Kiểm tra cuộc trò chuyện trước đây",find_history
+"Kiểm tra lại các cuộc trò chuyện cũ",find_history
+"Kiểm tra lịch sử chat trong cuộc trò chuyện",find_history
+"Kiểm tra các tin nhắn đã gửi trước",find_history
+"Xem lịch sử cuộc trò chuyện của tôi",find_history
+"Xem lại lịch sử trò chuyện với bot",find_history
+"Xem các cuộc trò chuyện trước đây với bot",find_history
+"Xem lịch sử các tin nhắn đã gửi",find_history
+"Xem lại cuộc trò chuyện cũ",find_history
+"Xem lịch sử chat bot trong cuộc trò chuyện",find_history
+"Xem lại các tin nhắn đã gửi",find_history
+"Xem lại các cuộc trò chuyện cũ với chatbot",find_history
+"Xem lịch sử trò chuyện của tôi với bot",find_history
+"Xem lại các cuộc trò chuyện đã qua",find_history
+"Tìm lại lịch sử chat của tôi với bot",find_history
+"Tìm lại các cuộc trò chuyện trước đây",find_history
+"Tìm lại tin nhắn đã gửi",find_history
+"Tìm lại lịch sử trò chuyện với bot",find_history
+"Tìm lại cuộc trò chuyện trước",find_history
+"Tìm lại các tin nhắn cũ",find_history
+"Tìm lại lịch sử chat của tôi",find_history
+"Tìm lại các cuộc trò chuyện đã qua",find_history
+"Tìm lại các tin nhắn đã gửi từ trước",find_history
+"Tìm lại lịch sử trò chuyện của tôi với chatbot",find_history
+"Truy vấn lịch sử trò chuyện của tôi với bot",find_history
+"Truy vấn lại các cuộc trò chuyện trước đây",find_history
+"Truy vấn lịch sử chat với bot",find_history
+"Truy vấn các tin nhắn đã gửi",find_history
+"Truy vấn cuộc trò chuyện cũ",find_history
+"Truy vấn lại lịch sử trò chuyện của tôi",find_history
+"Truy vấn các cuộc trò chuyện đã qua",find_history
+"Truy vấn lịch sử trò chuyện với chatbot",find_history
+"Truy vấn các tin nhắn đã gửi trước",find_history
+"Truy vấn lại các cuộc trò chuyện cũ",find_history
+"Xem lại lịch sử chat bot của tôi",find_history
+"Xem lại các cuộc trò chuyện cũ với bot",find_history
+"Xem lại các tin nhắn đã gửi",find_history
+"Xem lại lịch sử trò chuyện của tôi",find_history
+"Xem lại lịch sử chat của tôi với bot",find_history
+"Xem lại cuộc trò chuyện trước",find_history
+"Xem lại các cuộc trò chuyện cũ",find_history
+"Xem lại tin nhắn đã gửi",find_history
+"Xem lại các cuộc trò chuyện đã qua",find_history
+"Xem lại lịch sử chat của chatbot",find_history
+"Tìm kiếm lịch sử cuộc trò chuyện với bot",find_history
+"Tìm kiếm các cuộc trò chuyện đã qua",find_history
+"Tìm kiếm lịch sử chat bot của tôi",find_history
+"Tìm kiếm tin nhắn đã gửi",find_history
+"Tìm kiếm các cuộc trò chuyện trước đây",find_history
+"Tìm kiếm lịch sử trò chuyện từ trước",find_history
+"Tìm kiếm các tin nhắn đã gửi trước",find_history
+"Tìm kiếm lịch sử cuộc trò chuyện với chatbot",find_history
+"Tìm kiếm các cuộc trò chuyện đã qua với bot",find_history
+"Tìm kiếm lại lịch sử trò chuyện",find_history
+"Xem lại lịch sử trò chuyện của tôi",find_history
+"Xem lại các cuộc trò chuyện trước đây với bot",find_history
+"Xem lại lịch sử chat của tôi",find_history
+"Xem lại các tin nhắn đã gửi trước",find_history
+"Xem lại các cuộc trò chuyện cũ với bot",find_history
+"Xem lại lịch sử trò chuyện của tôi với chatbot",find_history
+"Xem lại cuộc trò chuyện cũ",find_history
+"Xem lại các tin nhắn đã gửi từ trước",find_history
+"Xem lại cuộc trò chuyện trước",find_history
+"Xem lại lịch sử chat bot",find_history
+"Kiểm tra lịch sử chat bot của tôi",find_history
+"Kiểm tra các cuộc trò chuyện cũ với bot",find_history
+"Kiểm tra lịch sử chat của tôi",find_history
+"Kiểm tra các tin nhắn đã gửi",find_history
+"Kiểm tra các cuộc trò chuyện đã qua",find_history
+"Kiểm tra lịch sử trò chuyện với bot",find_history
+"Kiểm tra lại lịch sử chat bot",find_history
+"Kiểm tra các tin nhắn đã gửi từ trước",find_history
+"Kiểm tra lại các cuộc trò chuyện cũ",find_history
+"Kiểm tra lịch sử chat với chatbot",find_history
+"Đăng xuất tài khoản của tôi",log_out
+"Tôi muốn đăng xuất tài khoản",log_out
+"Đăng xuất tài khoản và bảo mật",log_out
+"Đăng xuất khỏi tài khoản ngay lập tức",log_out
+"Tôi cần đăng xuất khỏi tài khoản",log_out
+"Đăng xuất tài khoản và quay lại trang chủ",log_out
+"Đăng xuất khỏi tài khoản và dừng sử dụng",log_out
+"Đăng xuất tài khoản của tôi và bảo vệ thông tin",log_out
+"Tôi muốn đăng xuất tài khoản để bảo mật",log_out
+"Đăng xuất tài khoản và thoát khỏi ứng dụng",log_out
+"Thoát khỏi dịch vụ ngay bây giờ",log_out
+"Tôi muốn thoát khỏi dịch vụ",log_out
+"Thoát khỏi dịch vụ này",log_out
+"Thoát khỏi dịch vụ và đăng xuất",log_out
+"Thoát khỏi dịch vụ để bảo mật tài khoản",log_out
+"Tôi cần thoát khỏi dịch vụ này",log_out
+"Thoát khỏi dịch vụ và quay lại trang chủ",log_out
+"Thoát khỏi dịch vụ và không lưu lại",log_out
+"Tôi muốn thoát khỏi dịch vụ và đăng nhập lại",log_out
+"Thoát khỏi dịch vụ sau khi hoàn tất",log_out
+"Hủy đăng nhập và thoát",log_out
+"Tôi muốn hủy đăng nhập",log_out
+"Hủy đăng nhập ngay lập tức",log_out
+"Hủy đăng nhập và thoát tài khoản",log_out
+"Tôi cần hủy đăng nhập khỏi hệ thống",log_out
+"Hủy đăng nhập khỏi tài khoản của tôi",log_out
+"Hủy đăng nhập và quay lại trang chủ",log_out
+"Hủy đăng nhập khỏi ứng dụng",log_out
+"Hủy đăng nhập và bảo vệ tài khoản",log_out
+"Hủy đăng nhập và không lưu lại",log_out
+"Thoát khỏi ứng dụng",log_out
+"Tôi muốn thoát khỏi ứng dụng",log_out
+"Thoát khỏi ứng dụng này ngay lập tức",log_out
+"Thoát khỏi ứng dụng và đăng xuất",log_out
+"Thoát khỏi ứng dụng và quay lại trang chủ",log_out
+"Thoát khỏi ứng dụng mà không lưu lại",log_out
+"Tôi cần thoát khỏi ứng dụng",log_out
+"Thoát khỏi ứng dụng và bảo vệ tài khoản",log_out
+"Thoát khỏi ứng dụng này và đăng nhập lại",log_out
+"Thoát khỏi ứng dụng và dừng sử dụng",log_out
+"Rời khỏi tài khoản của tôi",log_out
+"Tôi muốn rời khỏi tài khoản",log_out
+"Rời khỏi tài khoản này",log_out
+"Tôi cần rời khỏi tài khoản của mình",log_out
+"Rời khỏi tài khoản và quay lại trang chủ",log_out
+"Tôi muốn rời khỏi tài khoản ngay bây giờ",log_out
+"Rời khỏi tài khoản và không lưu lại",log_out
+"Tôi cần rời khỏi tài khoản để bảo mật",log_out
+"Rời khỏi tài khoản sau khi hoàn tất",log_out
+"Rời khỏi tài khoản và thoát",log_out
+"Đăng xuất khỏi hệ thống ngay bây giờ",log_out
+"Tôi muốn đăng xuất khỏi hệ thống",log_out
+"Đăng xuất khỏi hệ thống này",log_out
+"Đăng xuất khỏi hệ thống và quay lại trang chủ",log_out
+"Đăng xuất khỏi hệ thống và thoát",log_out
+"Đăng xuất và không lưu lại dữ liệu",log_out
+"Tôi muốn đăng xuất khỏi hệ thống và đăng nhập lại",log_out
+"Đăng xuất khỏi hệ thống và rời đi",log_out
+"Đăng xuất khỏi hệ thống để bảo mật",log_out
+"Đăng xuất và thoát khỏi tài khoản",log_out
+"Thoát hệ thống ngay lập tức",log_out
+"Tôi muốn thoát khỏi hệ thống",log_out
+"Thoát khỏi hệ thống này",log_out
+"Thoát hệ thống và quay lại trang chủ",log_out
+"Tôi muốn thoát hệ thống và đăng nhập lại",log_out
+"Thoát hệ thống mà không lưu lại",log_out
+"Thoát hệ thống sau khi hoàn tất",log_out
+"Tôi cần thoát khỏi hệ thống",log_out
+"Thoát hệ thống và đăng xuất",log_out
+"Thoát khỏi hệ thống và dừng sử dụng",log_out
+"Log out khỏi hệ thống",log_out
+"Tôi muốn log out khỏi tài khoản",log_out
+"Log out ngay lập tức",log_out
+"Tôi cần log out khỏi dịch vụ",log_out
+"Log out khỏi ứng dụng",log_out
+"Log out tài khoản của tôi",log_out
+"Log out và quay lại trang chủ",log_out
+"Tôi muốn log out tài khoản này",log_out
+"Log out khỏi trang web",log_out
+"Tôi muốn log out khỏi hệ thống này",log_out
+"Thoát tài khoản của tôi",log_out
+"Thoát khỏi tài khoản",log_out
+"Tôi muốn thoát tài khoản",log_out
+"Thoát hệ thống",log_out
+"Thoát khỏi tài khoản của tôi",log_out
+"Tôi muốn rời khỏi tài khoản",log_out
+"Thoát tài khoản ngay",log_out
+"Tôi cần thoát khỏi tài khoản",log_out
+"Thoát khỏi tài khoản này",log_out
+"Thoát tài khoản và quay lại trang chủ",log_out
+"Đăng xuất khỏi tài khoản của tôi",log_out
+"Tôi muốn đăng xuất",log_out
+"Đăng xuất khỏi hệ thống",log_out
+"Đăng xuất ngay lập tức",log_out
+"Tôi muốn thoát tài khoản",log_out
+"Đăng xuất khỏi ứng dụng",log_out
+"Tôi muốn thoát hệ thống",log_out
+"Đăng xuất tài khoản của tôi",log_out
+"Đăng xuất khỏi dịch vụ",log_out
+"Tôi cần đăng xuất khỏi tài khoản",log_out
